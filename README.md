@@ -8,7 +8,7 @@
 <a name="what"></a>
 # What is this?
 * My individual project for OENG1207 - Digital Fundamentals using MATLAB's App Designer. 
-* This program allows user to convert different unit types between Metric and Imperial system using a clean and comprehensive GUI design.
+* This program allows user to convert different unit types between Metric and Imperial systems using a clean and comprehensive GUI design.
 * Full project documentation and report can be found in the docs folder.
 
 ![Program interface](./img/interface.png "Program interface")
